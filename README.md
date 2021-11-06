@@ -3,7 +3,9 @@
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/803549282942058534.png">
 <div align="center">
+
 # Notes
+- Original Sources by [Lyte](https://github.com/LyteVV)
 this anti ddos has created by [LyteVV](https://github.com/LyteVV) and recode Login SignUp by [FrenzY8](https://github.com/FrenzY8)
 
 <p align="center">
