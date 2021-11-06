@@ -1,0 +1,24 @@
+{
+  "name": "aDos",
+  "version": "1.0.0",
+  "description": "logins",
+  "main": "dos.js",
+  "scripts": {
+    "test": "node dos.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "yes",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "generate-password": "^1.6.1",
+    "gradient-string": "^1.2.0",
+    "random-username-generator": "^1.0.4"
+  }
+}
